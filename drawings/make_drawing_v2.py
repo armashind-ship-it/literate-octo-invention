@@ -142,6 +142,24 @@ for n in notes:
     ax.text(SX, ny, n, fontsize=13, color="#333")
     ny -= 300
 
-fig.savefig("drawings/nasosnaya_drawing.png", dpi=90, bbox_inches="tight")
-fig.savefig("drawings/nasosnaya_drawing.svg", bbox_inches="tight")
+# ---------- Лист A3 (альбомный) с рамкой и штампом ----------
+from matplotlib.patches import Rectangle as FRect
+ax.set_ylim(-10300, 11600)
+fig.set_size_inches(16.54, 11.69)          # A3 landscape, дюймы
+ax.set_position([0.03, 0.14, 0.94, 0.84])
+fig.patches.append(FRect((0.012, 0.012), 0.976, 0.976, transform=fig.transFigure, fill=False, ec="black", lw=2.0))
+fig.patches.append(FRect((0.018, 0.018), 0.964, 0.964, transform=fig.transFigure, fill=False, ec="black", lw=0.8))
+sx0, sy0, sw, sh = 0.60, 0.018, 0.382, 0.11
+fig.patches.append(FRect((sx0, sy0), sw, sh, transform=fig.transFigure, fill=False, ec="black", lw=1.5))
+fig.text(sx0 + 0.01, sy0 + sh - 0.03, "НАСОСНАЯ — ЧЕРТЁЖ СТЕН, КАРКАСА, СПЕЦИФИКАЦИЯ", fontsize=11, weight="bold", transform=fig.transFigure)
+fig.text(sx0 + 0.01, sy0 + sh - 0.065, "Исходные данные: drawings/accepted_data.md (приняты)", fontsize=9, transform=fig.transFigure)
+fig.text(sx0 + 0.01, sy0 + 0.02, "Масштаб: условный  |  Размеры: мм  |  Дата: 10.10.2026", fontsize=9, transform=fig.transFigure)
+fig.text(sx0 + sw - 0.01, sy0 + 0.02, "Лист 1 из 1", fontsize=9, ha="right", transform=fig.transFigure)
+
+# масштаб шрифтов под лист A3 (в мм-координатах тексты были рассчитаны на больший холст)
+for t in list(ax.texts):
+    t.set_fontsize(t.get_fontsize() * 0.6)
+fig.savefig("drawings/nasosnaya_drawing.png", dpi=110)
+fig.savefig("drawings/nasosnaya_drawing.svg")
+fig.savefig("drawings/nasosnaya_drawing_A3.pdf", format="pdf")
 print("ok")
