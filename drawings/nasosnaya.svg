@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2300" height="4070" viewBox="0 0 2300 4070"><rect width="100%" height="100%" fill="#fff"/><text x="60.0" y="90.0" font-family="Arial" font-size="50" text-anchor="start" font-weight="bold" fill="#000">Насосная. Чертёж каркаса и стен по эскизу (развёртка A1–A4)</text>
+<text x="60.0" y="135.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="normal" fill="#444">Размеры в мм. Масштаб 1:50 (на листе условный). Ветка: arena/8a4d4a1f-literate-octo-invention</text>
+<rect x="150.0" y="300.0" width="400.0" height="330.0" stroke="#000" stroke-width="3" fill="none"/>
+<line x1="150.0" y1="300.0" x2="150.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="250.0" y1="300.0" x2="250.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="350.0" y1="300.0" x2="350.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="450.0" y1="300.0" x2="450.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="550.0" y1="300.0" x2="550.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="150.0" y1="520.0" x2="550.0" y2="520.0" stroke="#999" stroke-width="1.2"/>
+<line x1="150.0" y1="410.0" x2="550.0" y2="410.0" stroke="#999" stroke-width="1.2"/>
+<text x="200.0" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">1000</text>
+<text x="300.0" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">1000</text>
+<text x="400.0" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">1000</text>
+<text x="500.0" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">1000</text>
+<line x1="150.0" y1="710.0" x2="550.0" y2="710.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="150.0" y1="698.0" x2="150.0" y2="722.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="550.0" y1="698.0" x2="550.0" y2="722.0" stroke="#0044aa" stroke-width="1.5"/>
+<text x="350.0" y="702.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">4000 мм</text>
+<line x1="110.0" y1="300.0" x2="110.0" y2="630.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="98.0" y1="300.0" x2="122.0" y2="300.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="98.0" y1="630.0" x2="122.0" y2="630.0" stroke="#0044aa" stroke-width="1.5"/>
+<text transform="translate(96.0,465.0) rotate(-90)" font-family="Arial" font-size="24" text-anchor="middle" fill="#0044aa">3300 мм</text>
+<text x="150.0" y="230.0" font-family="Arial" font-size="40" text-anchor="start" font-weight="bold" fill="#000">A1 — стена 4000×3300</text>
+<text x="150.0" y="272.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#444">Площадь ≈ 13,2 м²  |  стойки шаг 1000 (уточнить)</text>
+<rect x="150.0" y="1000.0" width="400.0" height="450.0" stroke="#000" stroke-width="3" fill="none"/>
+<line x1="150.0" y1="1000.0" x2="150.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="243.0" y1="1000.0" x2="243.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="336.0" y1="1000.0" x2="336.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="429.0" y1="1000.0" x2="429.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="550.0" y1="1000.0" x2="550.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="150.0" y1="1340.0" x2="550.0" y2="1340.0" stroke="#999" stroke-width="1.2"/>
+<line x1="150.0" y1="1230.0" x2="550.0" y2="1230.0" stroke="#999" stroke-width="1.2"/>
+<line x1="150.0" y1="1120.0" x2="550.0" y2="1120.0" stroke="#999" stroke-width="1.2"/>
+<line x1="150.0" y1="1010.0" x2="550.0" y2="1010.0" stroke="#999" stroke-width="1.2"/>
+<line x1="150.0" y1="1000.0" x2="550.0" y2="1070.0" stroke="#c00" stroke-width="3"/>
+<rect x="430.0" y="1230.0" width="120.0" height="220.0" stroke="#c00" stroke-width="2.5" fill="#fbe9e9"/>
+<text x="490.0" y="1340.0" font-family="Arial" font-size="26" text-anchor="middle" font-weight="normal" fill="#c00">Дверь</text>
+<text x="196.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">930</text>
+<text x="289.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">930</text>
+<text x="382.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">930</text>
+<text x="489.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">1210</text>
+<line x1="150.0" y1="1530.0" x2="550.0" y2="1530.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="150.0" y1="1518.0" x2="150.0" y2="1542.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="550.0" y1="1518.0" x2="550.0" y2="1542.0" stroke="#0044aa" stroke-width="1.5"/>
+<text x="350.0" y="1522.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">4000 мм</text>
+<line x1="110.0" y1="1000.0" x2="110.0" y2="1450.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="98.0" y1="1000.0" x2="122.0" y2="1000.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="98.0" y1="1450.0" x2="122.0" y2="1450.0" stroke="#0044aa" stroke-width="1.5"/>
+<text transform="translate(96.0,1225.0) rotate(-90)" font-family="Arial" font-size="24" text-anchor="middle" fill="#0044aa">4500 мм</text>
+<text x="150.0" y="930.0" font-family="Arial" font-size="40" text-anchor="start" font-weight="bold" fill="#000">A3 — стена 4000×4500 (скат)</text>
+<text x="150.0" y="972.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#444">Площадь ≈ 4,8 м²  |  шаг 930, 1200 — дверь</text>
+<rect x="1000.0" y="300.0" width="250.0" height="330.0" stroke="#000" stroke-width="3" fill="none"/>
+<line x1="1000.0" y1="300.0" x2="1000.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="1083.0" y1="300.0" x2="1083.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="1166.0" y1="300.0" x2="1166.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="1249.0" y1="300.0" x2="1249.0" y2="630.0" stroke="#333" stroke-width="2"/>
+<line x1="1000.0" y1="520.0" x2="1250.0" y2="520.0" stroke="#999" stroke-width="1.2"/>
+<line x1="1000.0" y1="410.0" x2="1250.0" y2="410.0" stroke="#999" stroke-width="1.2"/>
+<text x="1041.5" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">830</text>
+<text x="1124.5" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">830</text>
+<text x="1207.5" y="674.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">830</text>
+<line x1="1000.0" y1="710.0" x2="1250.0" y2="710.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1000.0" y1="698.0" x2="1000.0" y2="722.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1250.0" y1="698.0" x2="1250.0" y2="722.0" stroke="#0044aa" stroke-width="1.5"/>
+<text x="1125.0" y="702.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">2500 мм</text>
+<line x1="960.0" y1="300.0" x2="960.0" y2="630.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="948.0" y1="300.0" x2="972.0" y2="300.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="948.0" y1="630.0" x2="972.0" y2="630.0" stroke="#0044aa" stroke-width="1.5"/>
+<text transform="translate(946.0,465.0) rotate(-90)" font-family="Arial" font-size="24" text-anchor="middle" fill="#0044aa">3300 мм</text>
+<text x="1000.0" y="230.0" font-family="Arial" font-size="40" text-anchor="start" font-weight="bold" fill="#000">A2 — стена 2500×3300</text>
+<text x="1000.0" y="272.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#444">Площадь ≈ 8,25 м²  |  шаг 830</text>
+<rect x="1000.0" y="1000.0" width="250.0" height="450.0" stroke="#000" stroke-width="3" fill="none"/>
+<line x1="1000.0" y1="1000.0" x2="1000.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="1083.0" y1="1000.0" x2="1083.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="1166.0" y1="1000.0" x2="1166.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="1249.0" y1="1000.0" x2="1249.0" y2="1450.0" stroke="#333" stroke-width="2"/>
+<line x1="1000.0" y1="1340.0" x2="1250.0" y2="1340.0" stroke="#999" stroke-width="1.2"/>
+<line x1="1000.0" y1="1230.0" x2="1250.0" y2="1230.0" stroke="#999" stroke-width="1.2"/>
+<line x1="1000.0" y1="1120.0" x2="1250.0" y2="1120.0" stroke="#999" stroke-width="1.2"/>
+<line x1="1000.0" y1="1010.0" x2="1250.0" y2="1010.0" stroke="#999" stroke-width="1.2"/>
+<text x="1041.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">830</text>
+<text x="1124.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">830</text>
+<text x="1207.5" y="1494.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">830</text>
+<line x1="1000.0" y1="1530.0" x2="1250.0" y2="1530.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1000.0" y1="1518.0" x2="1000.0" y2="1542.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1250.0" y1="1518.0" x2="1250.0" y2="1542.0" stroke="#0044aa" stroke-width="1.5"/>
+<text x="1125.0" y="1522.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">2500 мм</text>
+<line x1="960.0" y1="1000.0" x2="960.0" y2="1450.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="948.0" y1="1000.0" x2="972.0" y2="1000.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="948.0" y1="1450.0" x2="972.0" y2="1450.0" stroke="#0044aa" stroke-width="1.5"/>
+<text transform="translate(946.0,1225.0) rotate(-90)" font-family="Arial" font-size="24" text-anchor="middle" fill="#0044aa">4500 мм</text>
+<text x="1000.0" y="930.0" font-family="Arial" font-size="40" text-anchor="start" font-weight="bold" fill="#000">A4 — стена 2500×4500</text>
+<text x="1000.0" y="972.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#444">Площадь ≈ 11,25 м²  |  шаг 830</text>
+<rect x="1800.0" y="300.0" width="120.0" height="220.0" stroke="#000" stroke-width="3" fill="none"/>
+<line x1="1800.0" y1="300.0" x2="1800.0" y2="520.0" stroke="#333" stroke-width="2"/>
+<line x1="1860.0" y1="300.0" x2="1860.0" y2="520.0" stroke="#333" stroke-width="2"/>
+<line x1="1920.0" y1="300.0" x2="1920.0" y2="520.0" stroke="#333" stroke-width="2"/>
+<line x1="1800.0" y1="410.0" x2="1920.0" y2="410.0" stroke="#999" stroke-width="1.2"/>
+<text x="1830.0" y="564.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">600</text>
+<text x="1890.0" y="564.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">600</text>
+<line x1="1800.0" y1="600.0" x2="1920.0" y2="600.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1800.0" y1="588.0" x2="1800.0" y2="612.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1920.0" y1="588.0" x2="1920.0" y2="612.0" stroke="#0044aa" stroke-width="1.5"/>
+<text x="1860.0" y="592.0" font-family="Arial" font-size="24" text-anchor="middle" font-weight="normal" fill="#0044aa">1200 мм</text>
+<line x1="1760.0" y1="300.0" x2="1760.0" y2="520.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1748.0" y1="300.0" x2="1772.0" y2="300.0" stroke="#0044aa" stroke-width="1.5"/>
+<line x1="1748.0" y1="520.0" x2="1772.0" y2="520.0" stroke="#0044aa" stroke-width="1.5"/>
+<text transform="translate(1746.0,410.0) rotate(-90)" font-family="Arial" font-size="24" text-anchor="middle" fill="#0044aa">2200 мм</text>
+<text x="1800.0" y="230.0" font-family="Arial" font-size="40" text-anchor="start" font-weight="bold" fill="#000">Дверь 1200×2200 (2 шт.)</text>
+<text x="1800.0" y="272.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#444">Каркас 20×60×1,5 (16 м/п на 2 шт.), петли 2 шт/дверь, замок врезной 1 шт/дверь</text>
+<text x="150.0" y="3450.0" font-family="Arial" font-size="40" text-anchor="start" font-weight="bold" fill="#000">Спецификация материалов (по эскизу)</text>
+<text x="150.0" y="3510.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#000">Труба проф. 40×80×3</text>
+<text x="1050.0" y="3510.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#000">30+20+28+36 = 114 м/п  + 12×2 (A5 стропила) = 24 м/п</text>
+<text x="2450.0" y="3510.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#c00">138 м/п</text>
+<line x1="150.0" y1="3524.0" x2="2650.0" y2="3524.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="3570.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#000">Труба проф. 20×40×2</text>
+<text x="1050.0" y="3570.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#000">10+10+14+20 = 54 м/п  + 25 м/п (обрешётка) = 79 м/п</text>
+<text x="2450.0" y="3570.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#c00">79 м/п</text>
+<line x1="150.0" y1="3584.0" x2="2650.0" y2="3584.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="3630.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#000">Профлист (стены/кровля)</text>
+<text x="1050.0" y="3630.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#000">Суммарно по эскизу</text>
+<text x="2450.0" y="3630.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#c00">50,7 м²</text>
+<line x1="150.0" y1="3644.0" x2="2650.0" y2="3644.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="3690.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#000">Труба проф. 20×60×1,5 (дверь)</text>
+<text x="1050.0" y="3690.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#000">На 2 двери</text>
+<text x="2450.0" y="3690.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#c00">16 м/п</text>
+<line x1="150.0" y1="3704.0" x2="2650.0" y2="3704.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="3750.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#000">Петля дверная</text>
+<text x="1050.0" y="3750.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#000">2 на дверь × 2 двери</text>
+<text x="2450.0" y="3750.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#c00">4 шт.</text>
+<line x1="150.0" y1="3764.0" x2="2650.0" y2="3764.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="3810.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#000">Замок врезной (дверь)</text>
+<text x="1050.0" y="3810.0" font-family="Arial" font-size="26" text-anchor="start" font-weight="normal" fill="#000">1 на дверь × 2 двери</text>
+<text x="2450.0" y="3810.0" font-family="Arial" font-size="28" text-anchor="start" font-weight="bold" fill="#c00">2 шт.</text>
+<line x1="150.0" y1="3824.0" x2="2650.0" y2="3824.0" stroke="#bbb" stroke-width="1"/>
+<text x="150.0" y="3910.0" font-family="Arial" font-size="24" text-anchor="start" font-weight="normal" fill="#666">Примечания: 1) Расшифровка эскиза выполнена вручную, часть цифр неразборчива (A5: «4300 раз.?», высота 1200).</text>
+<text x="150.0" y="3950.0" font-family="Arial" font-size="24" text-anchor="start" font-weight="normal" fill="#666">2) 4300 — длина ската/стропила на A5, уточнить. 3) «10,75 м³» и «31,24 м²» — не проверены, в спецификацию не включены.</text>
+<text x="150.0" y="3990.0" font-family="Arial" font-size="24" text-anchor="start" font-weight="normal" fill="#666">3) Сумма 138 м/п и 79 м/п совпадает с итогами на эскизе — это подтверждает прочтение труб.</text></svg>
